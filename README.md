@@ -36,7 +36,7 @@
 
 ### Linux/macOS
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/admin8800/s-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/assute/s-ui/main/install.sh)
 ```
 
 ### Windows
